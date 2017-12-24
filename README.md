@@ -1,0 +1,2 @@
+# wordcraft
+MC server
